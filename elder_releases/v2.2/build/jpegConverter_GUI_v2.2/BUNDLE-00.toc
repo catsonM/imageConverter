@@ -1,0 +1,3 @@
+([('jpegConverter_GUI_v2.2',
+   '/Users/mcatoglu/jpegConverter_v2.0/dist/jpegConverter_GUI_v2.2',
+   'EXECUTABLE')],)
